@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "name": "Farhan multani",
+      "class": "12th",
+      "email": "farhan@1223.com"
+    },
+    {
+      "id": 7,
+      "name": "imran sheikh",
+      "class": "5th",
+      "email": "imran@1232gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "swd",
+      "class": "wdw",
+      "email": "wd"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
